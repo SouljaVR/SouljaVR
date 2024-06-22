@@ -18,7 +18,7 @@
   </div>
   <br>
   
-  ![](https://komarev.com/ghpvc/?username=SouljaVR)
+  ![](https://komarev.com/ghpvc/?username=SouljaVR&base=10083&abbreviated=true)
   
   <br>
 </div>
